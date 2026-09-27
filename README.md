@@ -64,3 +64,11 @@ leetcode-2.0/
 │   └── Climbing_Stairs.py
 │
 └── README.md
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0595-big-countries) |
+<!---LeetCode Topics End-->
