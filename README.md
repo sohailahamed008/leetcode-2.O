@@ -72,4 +72,8 @@ leetcode-2.0/
 | ------- |
 | [0595-big-countries](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sohailahamed008/leetcode-2.O/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
