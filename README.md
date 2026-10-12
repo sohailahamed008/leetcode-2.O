@@ -77,4 +77,16 @@ leetcode-2.0/
 | ------- |
 | [0007-reverse-integer](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
