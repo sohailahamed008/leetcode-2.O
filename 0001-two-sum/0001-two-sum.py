@@ -1,13 +1,14 @@
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
+        d1={}
         n=len(nums)
-        hash={}
         for i in range(0,n):
-            rem=target-nums[i]
-            if rem in hash:
-                return [hash[rem],i]
+            a=target-nums[i]
+            if a in d1:
+                return [d1[a],i]
             else:
-                hash[nums[i]]=i
+                d1[nums[i]]=i
+        
 
         
 
