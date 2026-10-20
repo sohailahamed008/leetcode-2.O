@@ -81,6 +81,7 @@ leetcode-2.0/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0049-group-anagrams) |
@@ -148,6 +149,7 @@ leetcode-2.0/
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -155,4 +157,8 @@ leetcode-2.0/
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sohailahamed008/leetcode-2.O/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
