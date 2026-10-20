@@ -3,11 +3,13 @@ class Solution:
         d={}
         for i in strs:
             s="".join(sorted(i))
-            if s not in d:
-                d[s]=[]
-            d[s].append(i)
+            if s in d:
+                d[s].append(i)
+            else:
+                d[s]=[i]
 
         return list(d.values())
+
     
                 
 
