@@ -1,14 +1,14 @@
 class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
         d={}
-        n=len(nums)
         for i in nums:
-            if i not in d:
-                d[i]=1
-            else:
+            if i in d:
                 d[i]+=1
-        d=sorted(d,key=d.get,reverse=True)
-        return d[0:k]
+            else:
+                d[i]=1
+        s=sorted(d,key=d.get,reverse=True)
+        return s[:k]
+
         
 
 
